@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "世田谷代田",
+  "base_artist": "Cody・Lee(李)",
+  "createdAt": "2026-03-22T02:15:40.467441Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世田谷代田",
+      "artist": "Cody・Lee(李)",
+      "has_synced": false,
+      "path": "select/pl_01_世田谷代田_Cody・Lee(李).txt"
+    }
+  ]
+}
